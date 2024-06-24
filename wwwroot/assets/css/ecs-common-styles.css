@@ -1,0 +1,79 @@
+.ent-gray-color { color: #808080; }
+
+.ent-white-color { color: #FFF; }
+
+.ent-yellow-color { color: #FFFF00; }
+
+.ent-inactive-color { color: #bcc7cc; }
+
+.ent-prime-color { color: #225A70; }
+
+.ent-info-color { color: #2795AC; }
+
+.ent-warning-color { color: #F2A900; }
+
+.ent-danger-color { color: #A6093D; }
+
+.ent-success-color { color: #007C8A; }
+
+.ent-fuschia-color { color: #AF1685; }
+
+.ent-orchid-color { color: #AD1AAC; }
+
+.ent-violet-color { color: #87189D; }
+
+.ent-plum-color { color: #6D2077; }
+
+.ent-onyx-color { color: #000; }
+
+.ent-bluest-color { color: #456BD1; }
+
+.ent-medium-blue-color { color: #88A0E1; }
+
+.ent-light-blue-color { color: #B5C4EE; }
+
+.ent-barely-blue-color { color: #DFE5F7; }
+
+.ent-ice-color { color: #EFF2FB; }
+
+.ent-darkest-gray-color { color: #3F454F; }
+
+.ent-medium-gray-color { color: #989AAB; }
+
+.ent-light-gray-color { color: #CECFD9; }
+
+.ent-lighter-gray-color { color: #E3E3EA; }
+
+.ent-barely-gray-color { color: #F8F8F8; }
+
+.ent-apricot-color { color: #E56A54; }
+
+.ent-royale-color { color: #003594; }
+
+.ent-oops-red-color { color: #A6093D; }
+
+.ent-success-green-color { color: #007C8A; }
+
+.ent-active-green-color { color: #1D7F86; }
+
+.ent-whoa-yellow-color { color: #F2A900; }
+
+.ent-success-banner { background-color: rgba(29,127,134,0.1); border: 1px solid #1D7F86; border-radius: 0px; box-sizing: border-box; color: #000; font-size: 14px; margin-bottom: 10px; margin-top: 10px; padding: 15px 15px 15px 50px; position: relative; width: 100%; }
+
+.ent-success-banner::before { display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; -webkit-font-smoothing: antialiased; font-family: "Font Awesome 5 Pro"; content: "\f058"; font-weight: 900; color: #1D7F86; font-size: 2em; position: absolute; top: 50%; left: 10px; -ms-transform: translate(0, -50%); transform: translate(0, -50%); }
+
+.ent-info-banner { background-color: #EFF2FB; border: 1px solid #003594; border-radius: 0px; box-sizing: border-box; color: #000; font-size: 14px; margin-bottom: 10px; margin-top: 10px; padding: 15px 15px 15px 50px; position: relative; width: 100%; }
+
+.ent-info-banner::before { display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; -webkit-font-smoothing: antialiased; font-family: "Font Awesome 5 Pro"; content: "\f05a"; font-weight: 900; color: #003594; font-size: 2em; position: absolute; top: 50%; left: 10px; -ms-transform: translate(0, -50%); transform: translate(0, -50%); }
+
+.ent-warning-banner { background-color: #FFFBE6; border: 1px solid #F2A900; border-radius: 0px; box-sizing: border-box; color: #000; font-size: 14px; margin-bottom: 10px; margin-top: 10px; padding: 15px 15px 15px 50px; position: relative; width: 100%; }
+
+.ent-warning-banner::before { display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; -webkit-font-smoothing: antialiased; font-family: "Font Awesome 5 Pro"; content: "\f071"; font-weight: 900; color: #F2A900; font-size: 2em; position: absolute; top: 50%; left: 10px; -ms-transform: translate(0, -50%); transform: translate(0, -50%); }
+
+.ent-danger-info-banner { background-color: #FFDAE6; border: 1px solid #A6093D; border-radius: 0px; box-sizing: border-box; color: #000; font-size: 14px; margin-bottom: 10px; margin-top: 10px; padding: 15px 15px 15px 50px; position: relative; width: 100%; }
+
+.ent-danger-info-banner::before { display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; -webkit-font-smoothing: antialiased; font-family: "Font Awesome 5 Pro"; content: "\f05a"; font-weight: 900; color: #A6093D; font-size: 2em; position: absolute; top: 50%; left: 10px; -ms-transform: translate(0, -50%); transform: translate(0, -50%); }
+
+.ent-error-banner { background-color: #FFDAE6; border: 1px solid #A6093D; border-radius: 0px; box-sizing: border-box; color: #000; font-size: 14px; margin-bottom: 10px; margin-top: 10px; padding: 15px 15px 15px 50px; position: relative; width: 100%; }
+
+.ent-error-banner::before { display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; -webkit-font-smoothing: antialiased; font-family: "Font Awesome 5 Pro"; content: "\f2f0"; font-weight: 900; color: #A6093D; font-size: 2em; position: absolute; top: 50%; left: 10px; -ms-transform: translate(0, -50%); transform: translate(0, -50%); }
